@@ -14,7 +14,9 @@ This repo is an archive of the very first few builds of the commercial game know
 \
 [gm8x_fix (v0.5.8)](https://github.com/skyfloogle/gm8x_fix/releases/tag/v0.5.8)
 \
-[7-Zip (Alone (v21.0.7)](https://www.7-zip.org/a/7z2107-extra.7z)
+[7-Zip (Alone Reduced) (v22.1)](https://www.7-zip.org/a/7zr.exe)
+\
+[BankGthd Font](https://www.fonttr.com/bankgthd-font)
 
 <details>
 <summary>Requirements For Older Versions</summary>
