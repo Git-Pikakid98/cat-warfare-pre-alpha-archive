@@ -21,6 +21,6 @@ This repo is an archive of the very first few builds of the commercial game know
 <details>
 <summary>Requirements For Older Versions</summary>
   
-[7-Zip (Alone (v21.07)](https://www.7-zip.org/a/7z2107-extra.7z) (< v1.1)
+[7-Zip (Alone (v21.07)](https://www.7-zip.org/a/7z2107-extra.7z) (v1.0 - v1.1)
   
 </details>
